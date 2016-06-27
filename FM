@@ -1,0 +1,2 @@
+Estblecer título de ventana [Ventana actual; Nuevo título: "Base de Empleados - " & Get (AccountName)]
+Ir a la presentación [Case
